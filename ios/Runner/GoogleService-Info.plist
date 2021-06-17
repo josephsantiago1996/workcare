@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>802416915379-g4au8fn12ga43pb541om02nce1gvfcnq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.802416915379-g4au8fn12ga43pb541om02nce1gvfcnq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>802416915379-em955j63g7f0ia2pc8m1huh1ljd93ek8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSQHDW98vkAIuMOINYPcTLVWyhZENJ-M4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>802416915379</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ph.techvolution.workcare</string>
+	<key>PROJECT_ID</key>
+	<string>workcare-d4661</string>
+	<key>STORAGE_BUCKET</key>
+	<string>workcare-d4661.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:802416915379:ios:5dc77306359ba2d5df51c6</string>
+</dict>
+</plist>

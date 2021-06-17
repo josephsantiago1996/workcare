@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "802416915379",
+    "project_id": "workcare-d4661",
+    "storage_bucket": "workcare-d4661.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802416915379:android:84125ed87b226c7adf51c6",
+        "android_client_info": {
+          "package_name": "ph.techvolution.workcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802416915379-em955j63g7f0ia2pc8m1huh1ljd93ek8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ph.techvolution.workcare",
+            "certificate_hash": "8287547590bd7586a75ea31060344689b63d9c61"
+          }
+        },
+        {
+          "client_id": "802416915379-a9ct3qt2hueocmo6rusm10lls0u15h0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCinXqdH4gnSSwVbmNa_lTyBeklIjRHEec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802416915379-a9ct3qt2hueocmo6rusm10lls0u15h0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

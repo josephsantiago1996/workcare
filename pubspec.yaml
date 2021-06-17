@@ -1,0 +1,52 @@
+name: workcare
+description: A new Flutter project.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^4.0.0-nullsafety.0
+  dio: ^4.0.0
+  flutter_facebook_auth: ^3.4.0
+  flutter_hooks: ^0.17.0
+  flutter_secure_storage: ^4.2.0
+  freezed_annotation: ^0.14.2
+  gap: ^2.0.0
+  geolocator: ^7.1.0
+  google_fonts: ^2.1.0
+  google_maps_flutter: ^2.0.6
+  google_maps_webservice: ^0.0.20-nullsafety.5
+  google_sign_in: ^5.0.3
+  hooks_riverpod: ^0.14.0+4
+  json_annotation: ^4.0.1
+  pretty_dio_logger: ^1.2.0-beta-1
+  retrofit: ^2.0.0
+  riverpod: ^0.14.0+3
+  scrollable_positioned_list: ^0.2.0-nullsafety.0
+  separated_column: ^2.0.0
+  separated_row: ^2.0.0
+  shimmer: ^2.0.0
+  timeago: ^3.0.2
+  url_launcher: ^6.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.0.3
+  freezed: ^0.14.2
+  json_serializable: ^4.1.2
+  retrofit_generator: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/scratch/
+    - assets/images/
+    - assets/images/services/
+    - assets/images/vouchers/
+    - assets/images/partners/
